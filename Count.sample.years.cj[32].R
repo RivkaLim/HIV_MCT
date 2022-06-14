@@ -1,4 +1,4 @@
-#Count samples years, find most recent
+#Count samples years, find most recent#
 setwd("/Users/rivkalim/Library/Mobile Documents/com~apple~CloudDocs/HPGH/Atkins Project/TransmissionPairs-master/Clusters") #set working dorectory to where i want to start the loop
 
 #create a data frame to save your data. Inform what kind of data each column stores ()

@@ -1,4 +1,4 @@
-#create database of consistent posterior results#
+#create database of consistent posterior results##
 
 setwd("~/Library/Mobile Documents/com~apple~CloudDocs/HPGH/Atkins Project/TransmissionPairs-master/Clusters/Clusters.90.new")
 
